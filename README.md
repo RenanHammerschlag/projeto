@@ -1,6 +1,7 @@
 # projeto
 
-Descrição do Projeto
+*Descrição do Projeto*
+
 Este projeto é um sistema de gerenciamento de funcionários para uma empresa fictícia chamada TechCorp. Ele permite cadastrar, consultar, atualizar e excluir informações de funcionários de diferentes categorias, como desenvolvedores, gerentes, treinadores e gerentes desenvolvedores.
 
 O sistema foi desenvolvido em Java, utilizando o padrão arquitetural MVC (Model-View-Controller), com persistência de dados em arquivos e armazenamento temporário utilizando ArrayList.
